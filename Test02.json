@@ -1,0 +1,18 @@
+{
+   "Board" : "        X",
+   "Hash" : "5922357451755119412",
+   "MovesRemaining" : 8,
+   "Players" : {
+      "O" : {
+         "GameRepresentation" : "O",
+         "HumanPlayer" : false,
+         "PlayerNumber" : 1
+      },
+      "X" : {
+         "GameRepresentation" : "X",
+         "HumanPlayer" : false,
+         "PlayerNumber" : 0
+      }
+   },
+   "WinningPlayer" : 8
+}

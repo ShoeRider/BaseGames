@@ -1,0 +1,175 @@
+{
+   "Board" : {
+      "0" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "1" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "2" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "3" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "4" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "5" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "6" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "7" : {
+         "Board" : "         ",
+         "Hash" : "6642556554564135096",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      },
+      "8" : {
+         "Board" : "        X",
+         "Hash" : "5922357451755119412",
+         "MovesRemaining" : 9,
+         "Players" : {
+            "O" : {
+               "GameRepresentation" : "O",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 1
+            },
+            "X" : {
+               "GameRepresentation" : "X",
+               "HumanPlayer" : false,
+               "PlayerNumber" : 0
+            }
+         }
+      }
+   },
+   "Hash" : "14868029614111327262",
+   "MovesRemaining" : 80,
+   "NextMove_Col" : 2,
+   "NextMove_Row" : 2,
+   "Players" : {
+      "O" : {
+         "GameRepresentation" : "O",
+         "HumanPlayer" : false,
+         "PlayerNumber" : 1
+      },
+      "X" : {
+         "GameRepresentation" : "X",
+         "HumanPlayer" : false,
+         "PlayerNumber" : 0
+      }
+   },
+   "SimulationFinished" : false,
+   "WinningPlayer" : false
+}
